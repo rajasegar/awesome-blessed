@@ -1,17 +1,15 @@
-# Awesome blessed-js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome blessed [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 An awesome list of resources about [blessed](https://github.com/chjj/blessed), A curses-like library with a high level terminal interface API for node.js.
-
 
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
 
 ## Contents
 - [Official](#official)
-- [Websites](#websites)
+- [Libraries](#libraries)
 - [Built with blessed](#built-with-blessed)
 - [Posts](#posts)
 - [Videos](#videos)
-- [Slides](#slides)
 
 ## Official
 - [blessed](https://github.com/chjj/blessed) The Official blessed library (no longer maintained)
@@ -21,6 +19,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [neo-blessed](https://github.com/mscdex/neo-blessed) Currently maintained fork of blessed
 - [drawille](https://github.com/madbence/node-drawille) 
 - [WOPR](https://github.com/yaronn/wopr) A markup for creating terminal reports, presentations and infographics.  
+- [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) A React renderer for blessed
 - [blessed-vue](https://github.com/lyonlai/blessed-vue) A VueJS runtime to let you write command line UI in Vue
 - [blessed-css](https://github.com/TooTallNate/blessed-css) CSS engine for blessed
@@ -35,8 +34,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [opcua-commander](https://github.com/node-opcua/opcua-commander) A opcua client with blessed (ncurses)
 
 ## Posts
+- [Blessed Cheatsheet](https://devhints.io/blessed) One page cheatsheet for blessed
+- [Building a visual form in your terminal emulator with Blessed](https://badacadabra.github.io/Building-a-visual-form-in-your-terminal-emulator-with-Blessed/) 
+- [Being Blessed](https://recodes.co/being-blessed/)
+- [Pretend you’re a CLI wizard with Blessed-Contrib](https://www.omgubuntu.co.uk/2019/01/blessed-contrib-hacker-terminal)
 
 ## Videos
+- [Building Command Line Apps with React](https://www.youtube.com/watch?v=duNfIN8T9jA) Building Command Line Apps with React - Patrick Kettner - DonutJS
+- [Back to Text UI](https://www.youtube.com/watch?v=ee_U2t-8L48) Mikhail Davydov - Back to Text UI at react-europe 2015
 
-
-## Slides
