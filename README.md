@@ -46,6 +46,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [modernizr-blessed](https://github.com/patrickkettner/modernizr-blessed)
 - [kubebox](https://github.com/astefanutti/kubebox) Terminal and Web console for Kubernetes
 - [jack-cli](https://github.com/drewbrokke/jack-cli) git log with actions
+- [node-telnet2](https://github.com/chjj/node-telnet2) Telnet implementation for node.js, based on node-telnet
+- [itrim](https://github.com/okofish/itrim) Command-line video trimmer for iTerm 2
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) A CLI dashboard for webpack dev server
 
 ## Posts
 - [Blessed Cheatsheet](https://devhints.io/blessed) One page cheatsheet for blessed
