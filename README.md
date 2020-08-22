@@ -32,6 +32,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [git-commander](https://github.com/golbin/git-commander) A git tool with an easy terminal interface.
 - [react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion) A console app demo using React for rendering, animation, and hot reloading
 - [opcua-commander](https://github.com/node-opcua/opcua-commander) A opcua client with blessed (ncurses)
+- [ember-app-explorer](https://github.com/rajasegar/eax) Ember.js app explorer
+- [ember-cli-next](https://github.com/rajasegar/ember-cli-next) An experimental TUI for ember
+- [ember-observer-cli](https://github.com/rajasegar/ember-observer-cli) A CLI for emberobserver.com
 
 ## Posts
 - [Blessed Cheatsheet](https://devhints.io/blessed) One page cheatsheet for blessed
