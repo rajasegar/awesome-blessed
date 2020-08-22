@@ -17,7 +17,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Libraries
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) Widget library built on top of blessed
 - [neo-blessed](https://github.com/mscdex/neo-blessed) Currently maintained fork of blessed
-- [drawille](https://github.com/madbence/node-drawille) 
+- [drawille](https://github.com/madbence/node-drawille) Drawing in terminal with unicode braille characters 
 - [WOPR](https://github.com/yaronn/wopr) A markup for creating terminal reports, presentations and infographics.  
 - [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) A React renderer for blessed
@@ -25,6 +25,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [blessed-css](https://github.com/TooTallNate/blessed-css) CSS engine for blessed
 - [blessed-xterm](https://github.com/rse/blessed-xterm) XTerm Widget for Blessed Curses Environment
 - [react-blessed-contrib](https://github.com/dundalek/react-blessed-contrib) A wrapper for blessed-contrib widgets to be rendered with react-blessed.
+- [cycle-blessed](https://github.com/alkhe/cycle-blessed) Cycle.js apps for the terminal
 
 ## Built with blessed
 - [slap text editor](https://github.com/slap-editor/slap) Text editor built with blessed
@@ -35,6 +36,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ember-app-explorer](https://github.com/rajasegar/eax) Ember.js app explorer
 - [ember-cli-next](https://github.com/rajasegar/ember-cli-next) An experimental TUI for ember
 - [ember-observer-cli](https://github.com/rajasegar/ember-observer-cli) A CLI for emberobserver.com
+- [vtop](https://github.com/MrRio/vtop) A graphical activity monitor for the command line.
+- [datop](https://github.com/maxogden/datop) top for dat
+- [blessed-ceph-dash](https://github.com/digitallyserviced/blessed-ceph-dash) ceph dashboard using blessed-contrib
+- [blessed-tetris](https://github.com/kirjavascript/blessed-tetris) quick and dirty tetris clone
+- [world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard)
+- [modernizr-blessed](https://github.com/patrickkettner/modernizr-blessed)
 
 ## Posts
 - [Blessed Cheatsheet](https://devhints.io/blessed) One page cheatsheet for blessed
